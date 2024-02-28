@@ -1,0 +1,11 @@
+#python staf
+venv/
+.pylintrc
+__pycache__/
+
+#idea
+.idea
+
+#django stuff
+db.sqlite3
+media/
